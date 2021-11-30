@@ -1,5 +1,5 @@
 Package: datatoolboxexos2021
-Title: Code pour les Exos de la Formation Datatoolbox 2021
+Title: Code pour les Exos de la Formation Datatoolbox 2020
 Version: 0.0.0.9000
 Authors@R: 
     person("Remi", "Brosse", , "remi.brosse@univ-mayotte.fr", role = c("aut", "cre"))
